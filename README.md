@@ -6,8 +6,6 @@
 
 This is an Assignment for programming hero. I have used React Routing in this project with react bootstrap, tostiify and recharts.
 
-### Screenshot
-
 ### Links
 
 ## Built with
