@@ -10,6 +10,9 @@ This is an Assignment for programming hero. I have used React Routing in this pr
 
 ### Links
 
+Live website: https://quiz-website24.netlify.app
+Repositories: https://github.com/programming-hero-web-course2/b6-quiz-crackerz-rezwanul24
+
 ## Built with
 
 - HTML5
