@@ -19,5 +19,5 @@ This is an Assignment for programming hero. I have used React Routing in this pr
 - React
 - React Bootstrap
 - React Router
--
+- React tostify
 - Recharts
